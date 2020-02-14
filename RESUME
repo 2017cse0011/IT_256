@@ -1,0 +1,55 @@
+<html>
+	<head>
+	<title>RESUME</title>
+	</head>
+	
+	<body bgcolor="yellow" align="center">
+	<table border="8" bgcolor="violet" align="center" style="width:70px:height:100px">
+	<tr>
+	<th><center>RESUME</center>
+	<img src="/home/6CSE1/Documents/index.png" style="width:50px;height:50px;border:0" align="right">        
+	<h4 align="left"><p>Abhilash S N</h4>
+      	<p align="left"><a href="mailto:abhilash3825@gmail.com">abhilash3825@gmail.com</a></p>
+	<p align="left"> +91 7892261907</p></th>
+	</tr>
+	
+	<tr>
+	<th><h3><center>CV Highlights</center></h3>
+	   
+	    <ul>
+	    <li>Learnt some basic python,java,Html</li>
+	    <li>Good Listener</li>
+	    <li>Good leadership quality</li>
+	    </ul>
+	</tr>
+	
+	<tr>
+	<th><h3>EDUCATION QUALIFICATION</h3>
+		<table border="2">
+		<th>NAME OF INSTITUTION</th>
+		<th>QUALIFICATION</th>
+  		<th>PERCENTAGE</th>
+		<th>YEAR</th>
+	</tr>	
+	<tr>
+		<td>Agragami Vidya Kendra</td>
+		<td>SSLC</td>
+		<td>7.2</td>
+		<td>2015</td>
+	</tr>
+	
+	<tr>
+		<td>Nagarjuna</td>
+		<td>PUC</td>
+		<td>60%</td>
+		<td>2017</td>
+	</tr>
+
+	<tr>
+		<td>Presidency University</td>
+		<td>B-tech</td>
+		<td>Persuing</td>
+		<td>2021</td>
+	</tr>
+	</body>
+</html>
